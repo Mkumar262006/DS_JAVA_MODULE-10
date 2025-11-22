@@ -1,4 +1,4 @@
-**# Ex22 Searching for a Book ID in a Binary Search Tree (BST)
+# Ex22 Searching for a Book ID in a Binary Search Tree (BST)
 ## DATE:31-10-2025
 ## AIM:
 To design and implement a Python program that constructs a Binary Search Tree (BST) using given Book IDs and checks whether a specific Book ID exists in the BST.
